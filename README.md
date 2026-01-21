@@ -1,15 +1,9 @@
 <h1 align="center">Hi 🖐, I'm Nirav Vasani</h1>
 <h3 align="center">MERN stack software developer based in India, working with a US–India product team at Aavgo</h3>
-
 🎓 IT Engineer | Full Stack Developer  
 📍 Gujarat, India 🇮🇳
 
-<h1 align="center">Hi 🖐, I'm Nirav Vasani</h1>
-<h3 align="center">MERN stack software developer based in India, working with a US–India product team at Aavgo</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niravvasani12&label=Profile%20views&color=0e75b6&style=flat" alt="niravvasani12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niravvasani12" alt="niravvasani12" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/niravvasani12" target="blank"><img src="https://img.shields.io/twitter/follow/niravvasani12?logo=twitter&style=for-the-badge" alt="niravvasani12" /></a> </p>
 
