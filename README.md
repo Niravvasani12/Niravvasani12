@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DDhyT4pSnqkXFpVYJb-LeQbD4h8TaS4z/view?usp=drive_link](https://drive.google.com/file/d/1DDhyT4pSnqkXFpVYJb-LeQbD4h8TaS4z/view?usp=drive_link)
 
-- ⚡ Fun fact **💡 Fun fact: 99% of bugs disappear after a coffee break ☕**
+- ⚡ Fun fact:  99% of bugs disappear after a coffee break ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
