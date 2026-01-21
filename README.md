@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/niravvasani12" target="blank"><img src="https://img.shields.io/twitter/follow/niravvasani12?logo=twitter&style=for-the-badge" alt="niravvasani12" /></a> </p>
 
-<image align ="center" alt ="coding" width ="400" src="https://miro.medium.com/1*um19N_oeTKlmrHMov0O5bA.gif" >
+<image align ="left" alt ="coding" width ="400" src="https://miro.medium.com/1*um19N_oeTKlmrHMov0O5bA.gif" >
 
 - 🔭 I’m currently working on [AAVGO](https://aavgo.com/)
 
