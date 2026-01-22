@@ -95,6 +95,9 @@ MERN stack software developer based in India, working with a US–India product 
 
 ---
 
+![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niravvasani12&theme=apprentice)
+
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niravvasani12&theme=apprentice)
 ## ⏱️ Productive Time
 
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niravvasani12&theme=apprentice&utcOffset=5.5)
