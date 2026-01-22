@@ -1,7 +1,7 @@
 <!-- ================== HERO TECH BACKGROUND ================== -->
 <p align="center">
   <img 
-    src="https://user-images.githubusercontent.com/74038190/212749726-7b7a7e1a-0a8b-4a6f-bc41-86b84d93bdb2.gif"
+    src="https://safoorsafdar.com/content/images/2023/09/Navy-White-Modern-Digital-Technology-Blog-Banner--1500---400-px---1500---800-px-.gif"
     width="100%"
     alt="Tech Background"
   />
