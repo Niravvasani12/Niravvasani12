@@ -2,7 +2,8 @@
 <p align="center">
   <img 
     src="https://safoorsafdar.com/content/images/2023/09/Navy-White-Modern-Digital-Technology-Blog-Banner--1500---400-px---1500---800-px-.gif"
-    width="100%"
+   align="center"
+    width="350"
     alt="Tech Background"
   />
 </p>
