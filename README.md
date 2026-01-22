@@ -100,7 +100,12 @@ MERN stack software developer based in India, working with a US–India product 
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niravvasani12&theme=apprentice&utcOffset=5.5)
 
 ---
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 <p align="center">
 ✨ Thanks for visiting my GitHub profile ✨
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
