@@ -36,9 +36,9 @@ MERN stack software developer based in India, working with a US–India product 
 </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img align="right" alt="coding" width="350" src="https://miro.medium.com/1*um19N_oeTKlmrHMov0O5bA.gif"/>
-</p>
+</p> -->
 
 ---
 
