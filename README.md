@@ -1,115 +1,145 @@
-<!-- ================== HERO TECH BACKGROUND ================== -->
+<!-- ================= HEADER ================= -->
+
 <p align="center">
-  <img 
-    src="https://safoorsafdar.com/content/images/2023/09/Navy-White-Modern-Digital-Technology-Blog-Banner--1500---400-px---1500---800-px-.gif"
-   align="center"
-    width="350"
-    alt="Tech Background"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nirav%20Vasani&fontSize=48&fontColor=ffffff" />
 </p>
 
-<!-- ================== TYPING INTRO ================== -->
-<!-- <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi+I'm+Nirav+Vasani;MERN+Stack+Software+Developer;Full+Stack+Engineer;India+🇮🇳+%7C+USA+🌎"
-    alt="Typing SVG"
-  />
-</p> -->
-
-<!-- ================== HEADER ================== -->
-<h1 align="center">Hi 🖐, I'm Nirav Vasani</h1>
 <h3 align="center">
-MERN stack software developer based in India, working with a US–India product team at Aavgo
+Full Stack Engineering • MERN Stack • Scalable Web Systems
 </h3>
 
 <p align="center">
-🎓 IT Engineer | 💻 Full Stack Developer <br/>
-📍 Gujarat, India 🇮🇳
+Building clean, production-ready web applications with strong engineering fundamentals
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niravvasani12&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-<a href="https://twitter.com/niravvasani12" target="blank">
-<img src="https://img.shields.io/twitter/follow/niravvasani12?logo=twitter&style=for-the-badge" />
-</a>
-</p>
-
-<!-- <p align="center">
-<img align="right" alt="coding" width="350" src="https://miro.medium.com/1*um19N_oeTKlmrHMov0O5bA.gif"/>
-</p> -->
-
----
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **[AAVGO](https://aavgo.com/)**
-- 🌱 I’m currently learning **ANT Design, MobX, Socket.io, Error Handling, API Integration**
-- 📝 I regularly write articles on **[niravvasani12.blogspot.com](https://niravvasani12.blogspot.com)**
-- 📫 How to reach me **niravvasani12@gmail.com**
-- 📄 Know about my experiences  
-  **[View Resume](https://drive.google.com/file/d/1DDhyT4pSnqkXFpVYJb-LeQbD4h8TaS4z/view)**
-- ⚡ Fun fact: **99% of bugs disappear after a coffee break ☕**
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
-
-## 🌐 Connect with Me
-
-<p align="center">
-<a href="https://codepen.io/niv-vasani"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" width="40"/></a>
-<a href="https://twitter.com/niravvasani12"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
-<a href="https://linkedin.com/in/nirav-vasani"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
-<a href="https://www.hackerrank.com/niravvasani12"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/></a>
-<a href="https://www.leetcode.com/nirav_vasani_12"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
-
-## 🛠️ Languages and Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,nestjs,mongodb,mysql,postgresql,aws,docker,git,figma,postman,tailwind,bootstrap" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=niravvasani12&show_icons=true&theme=default" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=niravvasani12&layout=compact" width="48%"/>
+  <img src="https://komarev.com/ghpvc/?username=niravvasani12&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
 
-## 📈 GitHub Profile Summary
+## ABOUT ME
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niravvasani12&theme=apprentice)
+I am a **Full Stack Software Developer (IT Engineer)** working with a **US–India product team at AAVGO**.
+
+I focus on **real-world product development**, not just UI —  
+from **frontend architecture and state management** to **backend APIs, databases, and deployment**.
+
+My work emphasizes:
+- Clean and scalable frontend architecture
+- Robust backend APIs and integrations
+- Production-ready engineering practices
+- Performance, maintainability, and teamwork
 
 ---
 
-![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niravvasani12&theme=apprentice)
+## CORE FOCUS AREAS
 
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niravvasani12&theme=apprentice)
-## ⏱️ Productive Time
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-6f42c1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MERN%20Stack-0d6efd?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Frontend%20Architecture-20c997?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend%20APIs-fd7e14?style=for-the-badge"/>
+</p>
 
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niravvasani12&theme=apprentice&utcOffset=5.5)
+- Designing scalable frontend systems (React, Angular)
+- Building REST APIs with Node.js & NestJS
+- Managing application state and real-time data
+- Working on production systems with real users
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+## TECH STACK
+
+### Languages & Core
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36"/>
 </p>
-<p align="center">
-✨ Thanks for visiting my GitHub profile ✨
+
+HTML • CSS • JavaScript • TypeScript
+
+---
+
+### Frontend Engineering
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="36"/>
 </p>
+
+React • Next.js • Angular • Tailwind • Bootstrap • Ant Design
+
+---
+
+### Backend & APIs
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="36"/>
+</p>
+
+Node.js • Express • NestJS • REST APIs • Socket.io
+
+---
+
+### Databases & Cloud
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36"/> &nbsp;
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.64.0/files/dark/aws-color.png" width="36"/>
+</p>
+
+MongoDB • MySQL • PostgreSQL • AWS
+
+---
+
+### DevOps & Tooling
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="36"/>
+</p>
+
+Git • Docker • Postman • CI/CD • Deployment
+
+---
+
+## GITHUB INSIGHTS
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niravvasani12&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niravvasani12&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niravvasani12&theme=radical" />
+</p>
+
+---
+
+## CONNECT
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nirav-vasani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/niravvasani12">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:niravvasani12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
