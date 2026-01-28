@@ -1,17 +1,4 @@
 <!-- ================= HEADER ================= -->
-## 🏆 GitHub Achievements
-
-- ⭐ **Starstruck**  
-  https://github.com/users/Niravvasani12/achievements/starstruck
-
-- ⚡ **Quickdraw**  
-  https://github.com/users/Niravvasani12/achievements/quickdraw
-
-- 🦈 **Pull Shark**  
-  https://github.com/users/Niravvasani12/achievements/pull-shark
-
-- ✅ **YOLO**  
-  https://github.com/users/Niravvasani12/achievements/yolo
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nirav%20Vasani&fontSize=48&fontColor=ffffff" />
@@ -183,6 +170,6 @@ Git • Docker • Postman • CI/CD • Deployment
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=THank You %20Visit My Profile&fontSize=48&fontColor=ffffff""/>
 </p>
 
