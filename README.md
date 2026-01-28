@@ -4,21 +4,43 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nirav%20Vasani&fontSize=48&fontColor=ffffff" />
 </p>
 
-<!-- ================= TYPEWRITER NAME ================= -->
+<!-- ================= TYPEWRITER ================= -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;MERN+Stack+Developer;Git+Hub+Specialist;"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;MERN+Stack+Developer;GitHub+Specialist;"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-Building clean, production-ready web applications with strong engineering fundamentals
+  Building clean, production-ready web applications with strong engineering fundamentals
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=niravvasani12&style=for-the-badge&color=blueviolet" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/users/Niravvasani12/achievements/starstruck">
+    <img src="https://img.shields.io/badge/Starstruck-%E2%AD%90-yellow?style=for-the-badge"/>
+  </a>
+
+  <a href="https://github.com/users/Niravvasani12/achievements/quickdraw">
+    <img src="https://img.shields.io/badge/Quickdraw-%F0%9F%94%A5-orange?style=for-the-badge"/>
+  </a>
+
+  <a href="https://github.com/users/Niravvasani12/achievements/pull-shark">
+    <img src="https://img.shields.io/badge/Pull%20Shark-%F0%9F%A6%88-blue?style=for-the-badge"/>
+  </a>
+
+  <a href="https://github.com/users/Niravvasani12/achievements/yolo">
+    <img src="https://img.shields.io/badge/YOLO-%E2%9C%85-green?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
@@ -29,11 +51,11 @@ I am a **Full Stack Software Developer (IT Engineer)** working with a **US–Ind
 
 I focus on **real-world product development**, not just UI — from **frontend architecture and state management** to **backend APIs, databases, and deployment**.
 
-My work emphasizes:
-- Clean and scalable frontend architecture
-- Robust backend APIs and integrations
-- Production-ready engineering practices
-- Performance, maintainability, and teamwork
+**My work emphasizes:**
+- Clean and scalable frontend architecture  
+- Robust backend APIs and integrations  
+- Production-ready engineering practices  
+- Performance, maintainability, and teamwork  
 
 ---
 
@@ -150,3 +172,4 @@ Git • Docker • Postman • CI/CD • Deployment
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
+
