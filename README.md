@@ -1,4 +1,17 @@
 <!-- ================= HEADER ================= -->
+## 🏆 GitHub Achievements
+
+- ⭐ **Starstruck**  
+  https://github.com/users/Niravvasani12/achievements/starstruck
+
+- ⚡ **Quickdraw**  
+  https://github.com/users/Niravvasani12/achievements/quickdraw
+
+- 🦈 **Pull Shark**  
+  https://github.com/users/Niravvasani12/achievements/pull-shark
+
+- ✅ **YOLO**  
+  https://github.com/users/Niravvasani12/achievements/yolo
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nirav%20Vasani&fontSize=48&fontColor=ffffff" />
