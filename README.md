@@ -170,6 +170,6 @@ Git • Docker • Postman • CI/CD • Deployment
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=THank You %20Visit My Profile&fontSize=48&fontColor=ffffff""/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thank%20You%20for%20Visiting%20My%20Profile&fontSize=48&fontColor=ffffff" />
 </p>
 
