@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&center=true&vCenter=true&width=900&lines=Nirav+Vasani;Full+Stack+Engineer;MERN+Stack+Developer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;MERN+Stack+Developer;Git+Hub+Specialist;"
     alt="Typing SVG"
   />
 </p>
