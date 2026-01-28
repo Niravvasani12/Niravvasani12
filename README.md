@@ -4,9 +4,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nirav%20Vasani&fontSize=48&fontColor=ffffff" />
 </p>
 
-<h3 align="center">
-Full Stack Engineering • MERN Stack • Scalable Web Systems
-</h3>
+<!-- ================= TYPEWRITER ================= -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Nirav+Vasani;Full+Stack+Engineer;MERN+Stack+Developer;Building+Scalable+Web+Systems"
+    alt="Typing SVG"
+  />
+</p>
 
 <p align="center">
 Building clean, production-ready web applications with strong engineering fundamentals
@@ -20,9 +25,9 @@ Building clean, production-ready web applications with strong engineering fundam
 
 ## ABOUT ME
 
-I am a **Full Stack Software Developer (IT Engineer)** working with a **US-India product team at AAVGO**.
+I am a **Full Stack Software Developer (IT Engineer)** working with a **US–India product team at AAVGO**.
 
-I focus on **real-world product development**, not just UI-from **frontend architecture and state management** to **backend APIs, databases, and deployment**.
+I focus on **real-world product development**, not just UI — from **frontend architecture and state management** to **backend APIs, databases, and deployment**.
 
 My work emphasizes:
 - Clean and scalable frontend architecture
@@ -137,9 +142,9 @@ Git • Docker • Postman • CI/CD • Deployment
   <a href="mailto:niravvasani12@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-<a href="https://niravvasani12.blogspot.com/">
-  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
-</a>
+  <a href="https://niravvasani12.blogspot.com/">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
