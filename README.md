@@ -4,11 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nirav%20Vasani&fontSize=48&fontColor=ffffff" />
 </p>
 
-<!-- ================= TYPEWRITER ================= -->
+<!-- ================= TYPEWRITER NAME ================= -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Nirav+Vasani;Full+Stack+Engineer;MERN+Stack+Developer;Building+Scalable+Web+Systems"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&center=true&vCenter=true&width=900&lines=Nirav+Vasani;Full+Stack+Engineer;MERN+Stack+Developer"
     alt="Typing SVG"
   />
 </p>
@@ -150,4 +150,3 @@ Git • Docker • Postman • CI/CD • Deployment
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
-
