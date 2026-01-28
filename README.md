@@ -1,5 +1,5 @@
 <!-- ================= HEADER ================= -->
-<p> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nirav%20Vasani&fontSize=48&fontColor=ffffff" />
 </p>
@@ -146,4 +146,4 @@ Git • Docker • Postman • CI/CD • Deployment
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
-</p>
+
