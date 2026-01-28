@@ -20,7 +20,7 @@ Building clean, production-ready web applications with strong engineering fundam
 
 ## ABOUT ME
 
-I am a **Full Stack Software Developer (IT Engineer)** working with a **US–India product team at AAVGO**.
+I am a **Full Stack Software Developer (IT Engineer)** working with a **US-India product team at AAVGO**.
 
 I focus on **real-world product development**, not just UI —  
 from **frontend architecture and state management** to **backend APIs, databases, and deployment**.
