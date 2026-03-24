@@ -172,4 +172,11 @@ Git • Docker • Postman • CI/CD • Deployment
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thank%20You%20for%20Visiting%20My%20Profile&fontSize=38&fontColor=000000" />
 </p>
+## 🏅 Certifications & Achievements
 
+![Infosys Springboard](https://img.shields.io/badge/Infosys-Springboard-blue)
+![Web Development](https://img.shields.io/badge/Web%20Development-Completed-brightgreen)
+![Java](https://img.shields.io/badge/Java-Completed-orange)
+![DBMS](https://img.shields.io/badge/DBMS-Completed-blue)
+
+🔗 [View Full Achievements](https://infyspringboard.onwingspan.com/web/en/app/profile/competency/achievements)
