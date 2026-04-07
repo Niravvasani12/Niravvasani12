@@ -21,33 +21,10 @@
   <img src="https://komarev.com/ghpvc/?username=niravvasani12&style=for-the-badge&color=blueviolet" />
 </p>
 
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/users/Niravvasani12/achievements/starstruck">
-    <img src="https://img.shields.io/badge/Starstruck-%E2%AD%90-yellow?style=for-the-badge"/>
-  </a>
-
-  <a href="https://github.com/users/Niravvasani12/achievements/quickdraw">
-    <img src="https://img.shields.io/badge/Quickdraw-%F0%9F%94%A5-orange?style=for-the-badge"/>
-  </a>
-
-  <a href="https://github.com/users/Niravvasani12/achievements/pull-shark">
-    <img src="https://img.shields.io/badge/Pull%20Shark-%F0%9F%A6%88-blue?style=for-the-badge"/>
-  </a>
-
-  <a href="https://github.com/users/Niravvasani12/achievements/yolo">
-    <img src="https://img.shields.io/badge/YOLO-%E2%9C%85-green?style=for-the-badge"/>
-  </a>
-</p>
-
----
 
 ## ABOUT ME
 
-I am a **Full Stack Software Developer (IT Engineer)** working with a **US–India product team at AAVGO**.
+I am a **Full Stack Software Developer (IT Engineer)**.
 
 I focus on **real-world product development**, not just UI — from **frontend architecture and state management** to **backend APIs, databases, and deployment**.
 
@@ -120,10 +97,9 @@ Node.js • Express • NestJS • REST APIs • Socket.io
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36"/> &nbsp;
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.64.0/files/dark/aws-color.png" width="36"/>
 </p>
 
-MongoDB • MySQL • PostgreSQL • AWS
+MongoDB • MySQL • PostgreSQL 
 
 ---
 
@@ -169,8 +145,6 @@ Git • Docker • Postman • CI/CD • Deployment
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thank%20You%20for%20Visiting%20My%20Profile&fontSize=38&fontColor=000000" />
-</p>
+
 
 
